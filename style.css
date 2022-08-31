@@ -188,5 +188,10 @@ h3 {
 }
 
 .link {
+  display: block;
+  margin: 0 auto;
+  margin-top: 50px;
   padding-top: 50px;
+  text-decoration: none;
+  color: #86c3fa;
 }
